@@ -15,5 +15,5 @@ RUN apt-get update && \
                        zlib1g-dev
 RUN pip install cookiecutter \
                 tox
-RUN git config --global user.name "Team 5499 Testing Image" && \
+RUN git config --global user.name "Team 5419 Testing Image" && \
     git config --global user.email "<>"
